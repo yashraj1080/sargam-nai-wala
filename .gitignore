@@ -1,0 +1,6 @@
+node_modules/
+_hornok_analysis/
+_hornok_temp.html
+.env
+.env.local
+.vercel

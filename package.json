@@ -1,0 +1,12 @@
+{
+  "name": "barber-wala",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:tracks": "node scripts/build-tracks.mjs",
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.34.3"
+  }
+}
